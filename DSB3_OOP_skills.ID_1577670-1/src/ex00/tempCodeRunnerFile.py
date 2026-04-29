@@ -1,0 +1,1 @@
+ith open('src/ex00/data.csv', 'r') 
